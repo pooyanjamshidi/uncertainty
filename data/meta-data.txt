@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs20 \cf0 \expnd0\expndtw0\kerning0
+the 6 parameters (
+\f1\fs16 1-trickle fsync, 2-auto snapshot, 3-con. reads, 4-con. writes,5-file cache size in mb, 6-con. compactors
+\f0\fs20 ),\'a0\
+overall throughput,\'a0\
+read operations, response time average, response time 95% and response time 99%,\'a0\
+update\'a0operations, response time average, response time 95% and response time 99%,\'a0}
+
+
+the 6 parameters (1-trickle fsync, 2-auto snapshot, 3-con. reads, 4-con. writes, 5-file cache size in mb, 6-con. compactors), 
+overall throughput, 
+read operations, response time average, response time 95% and response time 99%, 
+update operations, response time average, response time 95% and response time 99%, 
